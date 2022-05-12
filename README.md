@@ -5,7 +5,7 @@
 - 📫 Manda um email para: bruno.gdscosta@gmail.com
 <p>&nbsp;</p>
 
-## Minhas Habilidades
+## Minhas Habilidades 💻
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="max-width:100%"></img>
@@ -14,7 +14,7 @@
 <p>&nbsp;</p>
 
 
- ## Meus GitHub Stats ✅
+ ## Meus Status ✅
 <!--Stats Card-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Gdos&show_icons=true&theme=midnight-purple) 
 
