@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Bruno
-- 👀 I’m interested in Java and Pyhton ...
-- 🌱 I’m currently learning Java...
-- 💞️ I’m looking to collaborate on new knowledges...
-- 📫 How to reach me bruno.gdscosta@gmail.com ...
+- 👋 Olá, me chamo Bruno e tenho 18 anos.
+- 👀 Estou procurando uma oportunidade de estágio para poder aprimorar meus conhecimentos.
+- 🌱 Atualmente estou desenvolvendo em Java, e estou construindo um jogo chamado Nordeste Adventures, para práticar POO, sem uso de interface.
+- 💞️ Estou bastante animado, e aceito qualquer ajuda, ficaria muito feliz se pudesse me auxiliar no meu desenvolvimento.
+- 📫 Manda um email para: bruno.gdscosta@gmail.com
 
-<!---
-Bruno-Gdos/Bruno-Gdos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
