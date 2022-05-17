@@ -18,7 +18,7 @@
 <!--Stats Card-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Gdos&show_icons=true&theme=midnight-purple) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gdos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Gdos&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;</p>
 
 <p align="center">
