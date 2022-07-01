@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## - 👋 Olá, me chamo Bruno Gabriel, tenho 18 anos.
 - 👀 Estou procurando uma oportunidade de estágio para poder aprimorar meus conhecimentos.
@@ -25,6 +24,4 @@
 
 <p align="center">
 <a href = "https://www.linkedin.com/in/bruno-gdos/" target="_blank"><img align="center" alt="GitHub User Linkedin Profile" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></a>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="bruno-gdos" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/bruno-gdos?trk=profile-badge">Bruno Costa</a></div>
               
