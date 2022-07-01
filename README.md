@@ -1,7 +1,7 @@
 
 ## - 👋 Olá, me chamo Bruno Gabriel, tenho 18 anos.
 - 👀 Estou procurando uma oportunidade de estágio para poder aprimorar meus conhecimentos.
-- 🌱 Atualmente estou desenvolvendo em Java/JS.
+- 🌱 Atualmente estou aprimorando meus conhecimentos para Full-Stack.
 - 💞️ Estou bastante animado, e aceito qualquer ajuda, ficaria muito feliz se pudesse me auxiliar no meu desenvolvimento.
 - 📫 Me envie um email em: bruno.gdscosta@gmail.com
 <p>&nbsp;</p>
