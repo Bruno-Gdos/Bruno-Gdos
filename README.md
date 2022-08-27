@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=1f6feb&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cc86&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Bruno+Gabriel;Tenho+19+Anos;Moro+Em+Aracaju,+SE;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Bruno+Gabriel;Tenho+19+Anos+E+Moro+Em+Aracaju+-+SE;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bruno-gdos&show_icons=true&count_private=true&hide_border=true&title_color=00cc86&icon_color=00cc86&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Gabriel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-gdos&layout=compact&hide_border=true&title_color=00cc86&text_color=00cc86&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bruno-gdos&show_icons=true&count_private=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=fff&bg_color=0d1117" alt="Bruno Gabriel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-gdos&layout=compact&hide_border=true&title_color=1f6feb&text_color=fff&bg_color=0d1117" />
 </div>&nbsp;
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Bruno-gdos&theme=gotham&hide_border=true&area=true)&nbsp;
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Bruno-gdos&theme=github-dark&hide_border=true&area=true)&nbsp;
 ================
 ### Habilidades:
 <div style="display: inline-block">
@@ -79,4 +79,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bruno-gdos}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=180&section=header&text=&fontSize=30&fontColor=1f6feb&animation=twinkling&fontAlignY=35"/> 
