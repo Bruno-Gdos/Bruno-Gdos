@@ -35,6 +35,8 @@
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=8317e1">
 
+<img align = "center" alt="canva" src="https://img.shields.io/badge/Canva-0D1117.svg?&style=for-the-badge&logo=Canva&logoColor=31A8FF">
+
 </div>&nbsp;
 
 ### Noção Em:
