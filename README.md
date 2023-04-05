@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-gdos&layout=compact&hide_border=true&title_color=1f6feb&text_color=fff&bg_color=0d1117" />
 </div>&nbsp;
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Bruno-gdos&theme=github-dark&hide_border=true&area=true)&nbsp;
-================
 ### Habilidades:
 <div style="display: inline-block;">
 
