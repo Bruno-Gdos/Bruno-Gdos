@@ -42,6 +42,10 @@
 To see all the other badges are [here](https://www.credly.com/users/bruno-gabriel.8ca9fa53)
 
 <!--START_SECTION:badges-->
+[![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](http://www.credly.com/badges/09bec408-6a18-456e-9e08-3d91f2388df0 "Build a Secure Google Cloud Network Skill Badge")
+[![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/e02aba19-11e5-46f3-863a-890b05b11165 "Set Up an App Dev Environment on Google Cloud Skill Badge")
+[![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](http://www.credly.com/badges/922e2470-b0c1-41ab-9f2e-8c4845dcd797 "Prepare Data for ML APIs on Google Cloud Skill Badge")
+[![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/951dd304-ba09-4141-9f10-2c6605dda06a "Implement Load Balancing on Compute Engine Skill Badge")
 [![Scrum Foundation Professional Certification - SFPC™](https://images.credly.com/size/110x110/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob)](http://www.credly.com/badges/2dc5edfa-a0df-40ae-aed1-79fcad3c3ad0 "Scrum Foundation Professional Certification - SFPC™")
 [![Lifelong Learning](https://images.credly.com/size/110x110/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](http://www.credly.com/badges/86946ec4-4e57-4f03-b1cf-12e7149fd40c "Lifelong Learning")
 [![Generative AI Overview for Project Managers](https://images.credly.com/size/110x110/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png)](http://www.credly.com/badges/3f8d8be2-446b-4c73-a6f8-d5c45a8bc026 "Generative AI Overview for Project Managers")
