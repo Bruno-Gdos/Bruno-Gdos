@@ -15,3 +15,6 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          COMMIT_MESSAGE: "Updating readme with new badges"
+          CREDLY_USER: "bruno-gabriel.8ca9fa53"
