@@ -15,7 +15,3 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        env:
-          CREDLY_USER: bruno-gabriel.8ca9fa53 # Substitua <username> pelo seu nome de usuário no Credly
-          CREDLY_SORT: RECENT # Define a ordenação dos badges (RECENT/POPULAR)
-          COMMIT_MESSAGE: Updated README with new badges from credly # Define a mensagem de commit
