@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=1f6feb&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Bruno+Costa;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Bruno+Costa;Welcome+To+My+Repo!+:%29)](https://git.io/typing-svg)&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bruno-gdos&show_icons=true&count_private=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=fff&bg_color=0d1117" alt="Bruno Gabriel github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-gdos&layout=compact&hide_border=true&title_color=1f6feb&text_color=fff&bg_color=0d1117" />
 </div>&nbsp;
 
-<h2> Habilidades: </h2>
+<h2> Skills: </h2>
 <div style="display: inline-block;">
 <img align = "center"	alt ="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 
@@ -49,7 +49,7 @@ To see all the other badges are [here](https://www.credly.com/users/bruno-gabrie
 <!--END_SECTION:badges-->
 
 
-<h2> Ferramentas: </h2>
+<h2> Tools: </h2>
 <div style="display: inline-block">
 <img align = "center" alt="html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 
@@ -66,7 +66,7 @@ To see all the other badges are [here](https://www.credly.com/users/bruno-gabrie
 -------------------------------
 
 <div style="display: inline-block"; align="center">
-<h2>Redes Sociais:</h2>
+<h2>Contact me</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-38245B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gdos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.gdscosta@gmail.com)
@@ -79,7 +79,7 @@ To see all the other badges are [here](https://www.credly.com/users/bruno-gabrie
 
 
 <div align="center">
-<br><p align="centre"><b>Contador de Visitas</b></p>  
+<br><p align="centre"><b>Number of visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bruno-gdos}/count.svg" /></p> 
 <br></div>
 
