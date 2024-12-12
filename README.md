@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-gdos&layout=compact&hide_border=true&title_color=1f6feb&text_color=fff&bg_color=0d1117" />
 </div>&nbsp;
 
-### Habilidades:
+<h2> Habilidades: </h2>
 <div style="display: inline-block;">
 <img align = "center"	alt ="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 
@@ -37,7 +37,14 @@
 
 </div>&nbsp;
 
-### Ferramentas:
+<h2> My Last badges </h2>
+
+To see all the other badges are [here](https://www.credly.com/users/bruno-gabriel.8ca9fa53)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+
+<h2> Ferramentas: </h2>
 <div style="display: inline-block">
 <img align = "center" alt="html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 
