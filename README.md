@@ -42,6 +42,10 @@
 To see all the other badges are [here](https://www.credly.com/users/bruno-gabriel.8ca9fa53)
 
 <!--START_SECTION:badges-->
+[![Scrum Foundation Professional Certification - SFPC™](https://images.credly.com/size/110x110/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob)](http://www.credly.com/badges/2dc5edfa-a0df-40ae-aed1-79fcad3c3ad0 "Scrum Foundation Professional Certification - SFPC™")
+[![Lifelong Learning](https://images.credly.com/size/110x110/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](http://www.credly.com/badges/86946ec4-4e57-4f03-b1cf-12e7149fd40c "Lifelong Learning")
+[![Generative AI Overview for Project Managers](https://images.credly.com/size/110x110/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png)](http://www.credly.com/badges/3f8d8be2-446b-4c73-a6f8-d5c45a8bc026 "Generative AI Overview for Project Managers")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/6cb08af0-2027-4d50-bfc6-70278bec2c5d "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
 
 
