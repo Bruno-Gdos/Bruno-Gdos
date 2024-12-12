@@ -40,6 +40,7 @@
 <h2> My Last badges </h2>
 
 To see all the other badges are [here](https://www.credly.com/users/bruno-gabriel.8ca9fa53)
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
