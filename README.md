@@ -42,6 +42,7 @@
 To see all the other badges are [here](https://www.credly.com/users/bruno-gabriel.8ca9fa53)
 
 <!--START_SECTION:badges-->
+[![Cybersecurity Awareness Learner](https://images.credly.com/size/110x110/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob)](http://www.credly.com/badges/0f2680e9-d410-450b-8c65-78cd8869d885 "Cybersecurity Awareness Learner")
 [![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](http://www.credly.com/badges/09bec408-6a18-456e-9e08-3d91f2388df0 "Build a Secure Google Cloud Network Skill Badge")
 [![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/e02aba19-11e5-46f3-863a-890b05b11165 "Set Up an App Dev Environment on Google Cloud Skill Badge")
 [![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](http://www.credly.com/badges/922e2470-b0c1-41ab-9f2e-8c4845dcd797 "Prepare Data for ML APIs on Google Cloud Skill Badge")
